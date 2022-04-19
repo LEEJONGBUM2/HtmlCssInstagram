@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Dongle&family=Nanum+Myeongjo&family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap");
+* {
+  font-family: "Noto Sans KR", sans-serif;
+
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+
+  font-size: 14px;
+}
+
+body {
+  background-color: #fafafa;
+}
+
+* {
+  text-decoration: none;
+  color: black;
+}
+
+ul{
+  list-style: none;
+}
